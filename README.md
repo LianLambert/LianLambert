@@ -4,6 +4,8 @@ I recently graduated from McGill with a double major in Software Engineering and
 
 I'm always open to connecting—feel free to reach out on [LinkedIn](https://www.linkedin.com/in/lian-lambert/) if you'd like to collaborate or chat! 😊
 
+Want to know even more about me? Check out my website [here](https://lianlambert.github.io/website/)!
+
 
 <!--
 **LianLambert/LianLambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
